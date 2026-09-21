@@ -1,17 +1,18 @@
 # O caso do trio
 
 **Integrantes:**
+Arthur Ressel 
+Vinicius Muller 
+Nalin 
 
 **Turma:**
+1°C
 
 ---
 
 ## Em uma frase
 
-> _Escreva aqui o que o sistema controla, em uma frase, sem a palavra "sistema"._
->
-> Exemplo: a secretaria precisa saber qual aluno está inscrito em qual
-> modalidade esportiva, desde quando, e se a inscrição ainda vale.
+> a organização de um campeonato precisa saber as colocações dos times na tabela A, quantidade de pontos, e quantos jogos os times ganharam.
 
 ## As entidades
 
