@@ -19,10 +19,19 @@ Nalin
 Cada substantivo da frase que tem vida própria e que você precisa guardar mais
 de um. Liste aqui, um por linha, com dois ou três atributos de cada:
 
--
--
--
--
+-Campeonato:
+Nome
+Ano
+Categoria
+-Time:
+Nome
+Cidade
+Cores_Do_Uniforme
+-Jogo:
+Data
+Local
+Placar
+
 
 ## O N:N com atributo próprio
 
